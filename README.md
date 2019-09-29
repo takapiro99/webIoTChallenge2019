@@ -1,7 +1,8 @@
 
 # gottani
 
-project for 2019 Web IoT Challenge Sapporo
+project for 2019 Web IoT Challenge Sapporo  
+
 </br>
 
 ## 概要
@@ -60,5 +61,6 @@ Node.jsとそのwebフレームワークであるExpress.jsを使っています
 ・Let's Smart Life  
 
 </br>
+
 __IoT賞やったね！__  
 __みなさんお疲れ様＆ありがとうございました！！！__
